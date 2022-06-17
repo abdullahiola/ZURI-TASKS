@@ -1,4 +1,2 @@
-TASKS
-1.Run all migrations for the project
-2.Create a new admin account
-3.Start the development server
+LINK TO SCREENSHOT:
+https://drive.google.com/file/d/1XeQOwF0wt2GN4QSmFmos2Db6p1NeMDqx/view?usp=sharing
