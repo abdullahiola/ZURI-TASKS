@@ -1,5 +1,5 @@
 LINK TO SCREENSHOT:
-![Admin-Panel](https://drive.google.com/file/d/1XeQOwF0wt2GN4QSmFmos2Db6p1NeMDqx/view?usp=sharing)
+[Admin-Panel](https://drive.google.com/file/d/1XeQOwF0wt2GN4QSmFmos2Db6p1NeMDqx/view?usp=sharing)
 
 # TASK
 - Run all migrations for the project
